@@ -3,7 +3,6 @@ const registrationButton = document.getElementById("registrationFormSubmit");
 const errorMessage = document.getElementById("errorMessage");
 var errors = new Array();
 
-
 /**
 This defines the action taken when the submit button is clicked.
 **/
